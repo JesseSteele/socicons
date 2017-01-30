@@ -20,15 +20,18 @@ If we add too many icon layers to the same Inkscape file, it bogs the machine. M
 ## Tool Icons
 The "tools" file is for things like "Info" or "Consult" and other conceptual icons someone might want on a site. Low scope priority.
 
+## O-Podcast Icon
+This mic icon is "grouped", not "unioned" like other icons, so you can brand the giant, green dot. Of course, the mic could represent anything, not just a podcast. Size, circles, and squares are all included. This is what I used to make my own branded podcast logo icon at jessesteele.com. My gift to you.
+
 ## Forking
 Do it. Just know I maintain this.
 
 ## History
-I started this to get standardized, to-spec icons across my clients' sites and my own. I research the official specs for every icon I include and standardize the size to quickly implement along side other icons, whether plain, in circles, reversed discs, squares, etc. It eventually developed into a big, fat file, and I thought I might as well save the rest of you the time by sharing.
+Everything I do is done to some kind of standard from the get go. I started this to get standardized, to-spec icons across my clients' sites and my own. I research the official specs for every icon I include and standardize the size to quickly implement along side other icons, whether plain, in circles, reversed discs, squares, etc. It eventually developed into a big, fat file, and I thought I might as well save the rest of you the time by sharing.
 
-Credit where due, I first started this for Tesseract WP theme from Tyler.com tutorials.
+Credit where due, I first started this for a client wanting to use the Tesseract WP theme from Tyler.com tutorials. It's not a bad theme, but be advised that their awesome updates and improvements can really mess up your work if you don't keep a careful eye on the changes.
 
 ## Credit
-Only according to the license, IF you are redistributing the original layered files in a package, which is cool. If you are using rendered raster/vector icons to be displayed in your work (like icons on a website, app, et cetera), no credit needed whatsoever. 
+...only according to the license, IF you are redistributing the original layered files in a package, which is cool. If you are using rendered raster/vector icons to be displayed in your work (like icons on a website, app, et cetera), no credit needed whatsoever.
 
 Open Source for life. Game on.
