@@ -1,6 +1,6 @@
 # Socicons
 ### To make your web-dev socification easier.
-Social icon Inkscape vector layers: no mod, circle, disc, square, rounded, plain, black, white
+Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, disc, square, rounded, plain, black, white
 
 ## Disclaimer
 These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk. If you represent a brand that owns one of these icons and want to discuss a problem, let me know. I'm cool. I listen and want icons made according to specs. (Few things irritate me on a website as seeing an outdated icon or an icon not made to specs.)
