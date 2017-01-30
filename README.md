@@ -3,7 +3,11 @@
 Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, disc, square, rounded, plain, black, white
 
 ## Disclaimer
-These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk. If you represent a brand that owns one of these icons and want to discuss a problem, let me know. I'm cool. I listen and want icons made according to specs. (Few things irritate me on a website as seeing an outdated icon or an icon not made to specs.)
+These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk.
+
+If you represent a brand that owns one of these icons and want to discuss a problem, let me know. I'm cool. I listen and want icons made according to specs. If your official GitHub profile submits a pull request containing a proper vector silhouette to replace the logo I already have included, I will update it immediately and without question or comment.
+
+(Few things irritate me on a website as seeing an outdated icon or an icon not made to specs.)
 
 ## Requests and Contributions
 1. Contribute, don't request.
@@ -16,6 +20,8 @@ These are icons I use, based on as much information as I can get from official g
 The "main" file contains icons most likely to be used on your client's website (or if you are a DIY-er developing your personal brand).
 
 If we add too many icon layers to the same Inkscape file, it bogs the machine. More icons need the "lesser" popularity new file, not the main. Lessers are low priority by def.
+
+(Yes, it contains the [Pacific Daily Times](http://pacificdailytimes.com) 'P' logo because, if your client writer does not want to contribute to the free and easy-reading PDT site then he should, wink.)
 
 ## Tool Icons
 The "tools" file is for things like "Info" or "Consult" and other conceptual icons someone might want on a site. Low scope priority.
