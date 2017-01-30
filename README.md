@@ -21,7 +21,7 @@ If we add too many icon layers to the same Inkscape file, it bogs the machine. M
 The "tools" file is for things like "Info" or "Consult" and other conceptual icons someone might want on a site. Low scope priority.
 
 ## O-Podcast Icon
-This mic icon is "grouped", not "unioned" like other icons, so you can brand the giant, green dot. Of course, the mic could represent anything, not just a podcast. Size, circles, and squares are all included. This is what I used to make my own branded podcast logo icon at [jessesteele.com](http://jessesteele.com). My gift to you.
+This mic icon is "grouped", not "unioned" like other icons, so you can brand the giant, green dot. It's a separate file so updates and clones won't overwrite anything. Of course, the mic could represent anything, not just a podcast. Size, circles, and squares are all included to the same standard as others. This is what I used to make my own branded podcast logo icon at [jessesteele.com](http://jessesteele.com). My gift to you.
 
 ## Forking
 Do it. Just know I maintain this.
