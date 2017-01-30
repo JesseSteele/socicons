@@ -21,7 +21,7 @@ The "main" file contains icons most likely to be used on your client's website (
 
 If we add too many icon layers to the same Inkscape file, it bogs the machine. More icons need the "lesser" popularity new file, not the main. Lessers are low priority by def.
 
-(Yes, it contains the [Pacific Daily Times](http://pacificdailytimes.com) 'P' logo because, if your client writer does not want to contribute to the free and easy-reading PDT site then he should, wink.)
+(Yes, it contains the [Pacific Daily Times](http://pacificdailytimes.com) 'P' logo because, if your client writer does not want to contribute to the free and easy-reading PDT site then he should, wink. You might also use this as a comparison to other Newspaper websites, such as the New York Times 'T' if your client writes for the NYT.)
 
 ## Tool Icons
 The "tools" file is for things like "Info" or "Consult" and other conceptual icons someone might want on a site. Low scope priority.
