@@ -1,4 +1,4 @@
-# Socicons
+# Socicons for Inkscape
 ### To make your web-dev socification easier.
 Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, disc, square, rounded, plain, black, white
 
