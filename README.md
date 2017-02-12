@@ -5,9 +5,23 @@ Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, di
 ## Disclaimer
 These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk.
 
-If you represent a brand that owns one of these icons and want to discuss a problem, let me know. I'm cool. I listen and want icons made according to specs. If your official GitHub profile submits a pull request containing a proper vector silhouette to replace the logo I already have included, I will update it immediately and without question or comment.
+#### Scope
+The scope of these icons only allows icons whose trademark or intellectual property owners do not require Ⓡ or ™ notice in the icon in a "like-kind social media linked icon row".
 
-(Few things irritate me on a website as seeing an outdated icon or an icon not made to specs.)
+#### Bookmarks
+If you want generic icons or other work, I recommend these URLs. (Make a pull or issue if any expire plz)
+https://material.io/icons/ (generic icons from Google, Apache 2.0 license)
+http://www.socicon.com/chart.php (icons as font characters; use at your own risk, useful, but some seem imperfect or outdated)
+
+#### Treatise on trademarks
+Typically, as I understand, using a trademark is governed under "fair use" because the cultural context of a row of social media icons indicates either "sharing to one's own" or "linking to the public profile of" and is therefore "discussion with credit" of work(s) owned by others. This is similar to CNN playing a clip from Fox News with Fox News' own logos in it so they can comment on it. (In social media as well as news media, without the ability to talk about each other there probably wouldn't be anything to talk about.) So, as I understand, the question with protected intellectual property is profiteering via impersonating someone else or via defaming or confusing someone else's brand by misrepresenting a trademark when discussing it. As I understand, the key is to make sure a social icon is used like a social icon and that it is the actual social icon of the social media it represents. And, monochrome versions of colored logos are always allowed in a monochrome context because otherwise early black and white cameras would have to be outlawed.
+
+This was why I created this project. Good as they are, I don't always trust other artists' work. Sometimes an artist's icon is disproportionate within the logo or within the spacing around the logo or the color is similar but not the correct color. As I understand, this is a small violation of terms for using logos. Moreover, as an artist myself, it sometimes misleads me or seems like it was made for refrigerator art by talented child who will out-do DaVinci, but hasn't yet. So, I check each brand for whatever I can find they say about themselves, do it myself, and share with you.
+
+I put my own ™ on some of my own trademarks, but I never ask other people to do the same. This is because, in my opinion regarding my own efforts, putting the Ⓡ or ™ or ℠ or other trademark indicator is my own notice to the public that 1. I am doing business myself, using this trademark or servicemark and 2. that it belongs to me. That is my own effort as the owner of the trademark, etc. When other people give me credit or discuss it my trademarks, the trademark remains my own whether they say so or not; it is not other parties' responsibility to protect my own trademarks. So, I don't ask others to denote the trademark because I do not want to imply that someone not noting my trademark is any kind of waiver of my own rights, nor do I want to have to sue everyone who doesn't put Ⓡ on my work. So, I regard Ⓡ and ™ and ℠ as my responsibility, not yours. But, this my own practice, not necessarily the practice of others. That said, I understand it is common practice that social media icons linking or indicating (such as QR code or URL) an account with a social media brand uses the trademarked and governed logo, but that using the Ⓡ or ™ or ℠ is from oldschool practices and does not apply to digitally scallable social media.
+
+#### Is This YOUR Icon?
+If you represent a brand that owns one of these icons and want to discuss a problem, let me know. I'm cool. I listen and want icons made according to specs. If your official GitHub profile submits a pull request containing a proper vector silhouette to replace the logo I already have included, I will update it immediately and without question or comment. If you do not want your icon included in a to-standard distribution for icon "linked rows", let me know and I will delete your icon from every place I ever used it, including this project and all my blogs and websites.
 
 ## Requests and Contributions
 1. Contribute, don't request.
