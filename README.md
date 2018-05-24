@@ -6,14 +6,14 @@ Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, di
 These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk.
 
 # The main file with all the icons is here:
-[Jesse-socicons-main.svg](https://github.com/JesseSteele/socicons/blob/master/Jesse-socicons-main.svg)
+# [Jesse-socicons-main.svg](https://github.com/JesseSteele/socicons/blob/master/Jesse-socicons-main.svg)
 
 ## About licsensing social media icons
 I contacted Linkedin about using their icon and had friendly correspondence with them. I had the same experience with Twitter. Different brands have their own trademark standards. Using an outdated icon or messing with it too much could make problems for you, but a social media brand would be foolish to actually prosecute due to foreseeable public backlash. Twitter, for example, cares about the space between the bird and what it's next to. As I understand (not corresponded), the Facebook "f" isn't the actual "f", but the space around it. So, an "f" in a circle may actually be trademark abuse, but I have no official word from Facebook about this. I won't ask because they are too "big, corporate" and I wouldn't want to waste their time.
 
 From my experience developing these, and seeing the different licensing used by social media brands, I created the "Ink Verb License", as a kind of GPL, to codify how people and brands generally and intuitively expect each other to use and understand social media icons. If you are a brand or want to license your own logo to be used as or in the style of social media icons, consider using this license to give developers:
 
-[Ink Verb License 1.0](https://github.com/inkVerb/License)
+## [Ink Verb License 1.0](https://github.com/inkVerb/License)
 
 #### Scope
 The scope of these icons only allows icons whose trademark or intellectual property owners do not require Ⓡ or ™ notice in the icon in a "like-kind social media linked icon row".
