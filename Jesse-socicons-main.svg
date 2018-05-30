@@ -18,9 +18,9 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Jesse-socicons-main.svg"
-   inkscape:export-filename="/home/jc/Dropbox/DocTools/Desk/Image Cloud/Images/Icons/Social Media/Custom/Social Icons/PodcastWaves2_CW.png"
-   inkscape:export-xdpi="88.509514"
-   inkscape:export-ydpi="88.509514">
+   inkscape:export-filename="/home/jc/Dropbox/DocTools/Desk/Image Cloud/Images/Icons/Social Media/Custom/Social Icons/Stitcher_W.png"
+   inkscape:export-xdpi="87.64756"
+   inkscape:export-ydpi="87.64756">
   <defs
      id="defs4">
     <style
@@ -40,17 +40,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57293535"
-     inkscape:cx="-237.22716"
-     inkscape:cy="138.60486"
+     inkscape:zoom="0.81025294"
+     inkscape:cx="162.25004"
+     inkscape:cy="240.81439"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer21"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1262"
+     inkscape:window-height="803"
+     inkscape:window-x="203"
+     inkscape:window-y="149"
+     inkscape:window-maximized="0"
      fit-margin-top="2"
      fit-margin-left="2"
      fit-margin-right="2"
@@ -758,11 +758,11 @@
      inkscape:label="Disc K"
      style="display:none">
     <circle
-       r="254.21021"
+       style="display:inline;opacity:1;fill:#000000"
+       id="circle4623"
+       cx="254.83594"
        cy="256.70996"
-       cx="256.71094"
-       id="circle4495"
-       style="display:inline;opacity:1;fill:#000000" />
+       r="254.21021" />
   </g>
   <g
      style="display:none"
@@ -1302,7 +1302,7 @@
              id="path4722" />
           <polygon
              style="fill:#ffffff"
-             points="98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 "
+             points="98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 "
              id="polygon4724" />
         </g>
         <path
@@ -1339,7 +1339,7 @@
                id="path4734" />
             <polygon
                style="fill:#ffffff"
-               points="92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 "
+               points="92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 "
                id="polygon4736" />
           </g>
         </g>
@@ -1478,6 +1478,18 @@
            id="path1129"
            inkscape:connector-curvature="0" />
       </g>
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Patreon CW"
+       id="g4641"
+       inkscape:groupmode="layer">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:2.95024228"
+         d="M 273.82422,2.6660156 A 271.15755,271.15755 0 0 0 2.6660156,273.82422 271.15755,271.15755 0 0 0 273.82422,544.98047 271.15755,271.15755 0 0 0 544.98242,273.82422 271.15755,271.15755 0 0 0 273.82422,2.6660156 Z m 0,15.0410154 c 141.57858,0 256.11913,114.538619 256.11914,256.117189 0,141.57858 -114.54052,256.11719 -256.11914,256.11719 -141.57863,0 -256.117189,-114.53861 -256.117189,-256.11719 0,-141.57857 114.538609,-256.117189 256.117189,-256.117189 z M 126.33008,132.37695 v 282.89258 h 51.85937 V 132.37695 Z m 189.10547,0.002 c -58.56585,0 -106.21289,47.64081 -106.21289,106.20312 0,58.3847 47.64704,105.88477 106.21289,105.88477 58.38471,0 105.88476,-47.50007 105.88476,-105.88477 0,-58.56231 -47.50005,-106.20312 -105.88476,-106.20312 z"
+         transform="scale(0.93750002)"
+         id="path4635"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
@@ -2161,9 +2173,26 @@
            style="display:inline;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.10039222" />
       </g>
     </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4614"
+       inkscape:label="Patreon CK"
+       style="display:none">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd;stroke-width:2.95024228"
+         d="m 126.33008,132.37695 v 282.89258 h 51.85937 V 132.37695 Z m 189.10547,0.002 c -58.56585,0 -106.21289,47.64081 -106.21289,106.20312 0,58.3847 47.64704,105.88477 106.21289,105.88477 58.38471,0 105.88476,-47.50007 105.88476,-105.88477 0,-58.56231 -47.50005,-106.20312 -105.88476,-106.20312 z"
+         transform="scale(0.93750002)"
+         id="path4606" />
+      <path
+         id="path4619"
+         d="M 256.71094,2.5 A 254.21021,254.21021 0 0 0 2.5,256.71094 254.21021,254.21021 0 0 0 256.71094,510.91992 254.21021,254.21021 0 0 0 510.92188,256.71094 254.21021,254.21021 0 0 0 256.71094,2.5 Z m 0,14.099609 c 132.72992,0 240.11132,107.381421 240.11133,240.111331 0,132.72992 -107.38137,240.10937 -240.11133,240.10937 -132.72997,0 -240.111331,-107.37945 -240.111331,-240.10937 0,-132.72991 107.381411,-240.111331 240.111331,-240.111331 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Discs W"
      id="g3991"
      inkscape:groupmode="layer">
@@ -2461,7 +2490,7 @@
        inkscape:groupmode="layer"
        id="layer21"
        inkscape:label="Stitcher DW"
-       style="display:none">
+       style="display:inline">
       <path
          id="path4875"
          d="M 256.71094,2.5 A 254.21021,254.21021 0 0 0 2.5,256.71094 254.21021,254.21021 0 0 0 256.71094,510.91992 254.21021,254.21021 0 0 0 510.92188,256.71094 254.21021,254.21021 0 0 0 256.71094,2.5 Z M 353.18359,148 h 10.00782 V 365.41992 H 353.18359 Z M 73.515625,184.36328 H 111.76367 V 330.27734 H 73.515625 Z m 41.988285,0 h 12.65625 v 145.91406 h -12.65625 z m 16.40039,0 h 65.47461 V 330.27734 H 131.9043 Z m 69.21484,0 H 330.9707 V 330.27734 H 201.11914 Z m 137.33789,0 h 7.24024 v 145.91406 h -7.24024 z m 32.2207,0 h 7.24024 v 145.91406 h -7.24024 z m 14.72657,0 h 54.50195 V 330.27734 H 385.4043 Z"
@@ -2619,12 +2648,24 @@
          style="display:inline;opacity:1;fill:#ffffff;stroke-width:1.0666666"
          inkscape:connector-curvature="0" />
     </g>
+    <g
+       style="display:none"
+       inkscape:groupmode="layer"
+       id="g4631"
+       inkscape:label="Patreon DW">
+      <path
+         id="path4627"
+         transform="scale(0.93750002)"
+         d="M 271.82422,2.6660156 A 271.15755,271.15755 0 0 0 0.66796875,273.82422 271.15755,271.15755 0 0 0 271.82422,544.98242 271.15755,271.15755 0 0 0 542.98242,273.82422 271.15755,271.15755 0 0 0 271.82422,2.6660156 Z M 126.33008,132.37695 h 51.85937 v 282.89258 h -51.85937 z m 189.10547,0.002 c 58.38471,0 105.88476,47.64081 105.88476,106.20312 0,58.3847 -47.50005,105.88477 -105.88476,105.88477 -58.56585,0 -106.21289,-47.50007 -106.21289,-105.88477 0,-58.56231 47.64704,-106.20312 106.21289,-106.20312 z"
+         style="display:inline;opacity:1;fill:#ffffff;stroke-width:1.0666666"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g3726"
      inkscape:label="Discs K"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer34"
@@ -2924,7 +2965,7 @@
        inkscape:groupmode="layer"
        id="g5207"
        inkscape:label="Google DK"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;opacity:1;fill:#000000"
          d="M 256.71094,2.5 A 254.21021,254.21021 0 0 0 2.5,256.71094 254.21021,254.21021 0 0 0 256.71094,510.91992 254.21021,254.21021 0 0 0 510.92188,256.71094 254.21021,254.21021 0 0 0 256.71094,2.5 Z m 3.38672,84.832031 c 45.7321,0 84.01201,16.767749 113.31445,44.207029 l -48.10352,46.74805 c -12.19524,-11.51773 -33.53722,-25.06641 -65.21093,-25.06641 -56.06421,0 -101.79493,46.57775 -101.79493,103.65821 0,57.08047 45.73072,103.66015 101.79493,103.66015 64.87184,0 88.75435,-44.88614 93.1582,-71.47851 h -93.32617 v -0.16797 -63.00977 H 418.4668 c 2.3713,10.67085 4.23437,20.66427 4.23437,34.72266 0,96.71499 -64.87228,165.48242 -162.60351,165.48242 -93.49679,0 -169.376957,-75.88017 -169.376957,-169.37695 0,-93.49679 75.880167,-169.378909 169.376957,-169.378909 z"
@@ -3012,6 +3053,18 @@
          d="M 273.82422,2.6660156 A 271.15755,271.15755 0 0 0 2.6679688,273.82422 271.15755,271.15755 0 0 0 273.82422,544.98242 271.15755,271.15755 0 0 0 544.98242,273.82422 271.15755,271.15755 0 0 0 273.82422,2.6660156 Z M 226.875,75.351562 h 93.90039 L 391.19922,148.125 398.24219,265.5 344.25,346.48828 332.51172,384.04883 v 72.77148 l -58.6875,23.47657 -58.6875,-23.47657 V 384.04883 L 203.40039,346.48828 149.4082,265.5 156.44922,148.125 Z"
          transform="scale(0.93750002)"
          id="circle1140"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:label="Patreon DK"
+       id="g4602"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <path
+         style="display:inline;opacity:1;fill:#000000;stroke-width:1.0666666"
+         d="M 271.82422,2.6660156 A 271.15755,271.15755 0 0 0 0.66796875,273.82422 271.15755,271.15755 0 0 0 271.82422,544.98242 271.15755,271.15755 0 0 0 542.98242,273.82422 271.15755,271.15755 0 0 0 271.82422,2.6660156 Z M 126.33008,132.37695 h 51.85937 v 282.89258 h -51.85937 z m 189.10547,0.002 c 58.38471,0 105.88476,47.64081 105.88476,106.20312 0,58.3847 -47.50005,105.88477 -105.88476,105.88477 -58.56585,0 -106.21289,-47.50007 -106.21289,-105.88477 0,-58.56231 47.64704,-106.20312 106.21289,-106.20312 z"
+         transform="scale(0.93750002)"
+         id="circle4495"
          inkscape:connector-curvature="0" />
     </g>
   </g>
@@ -3469,7 +3522,7 @@
            id="path4637" />
         <polygon
            style="fill:#000000"
-           points="98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 "
+           points="98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 "
            id="polygon4639" />
       </g>
     </g>
@@ -3495,7 +3548,7 @@
              id="path4590" />
           <polygon
              style="fill:#ffffff"
-             points="92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 "
+             points="92.923,64.469 92.923,75.612 98.393,75.612 98.393,64.469 109.506,64.469 109.506,58.938 98.393,58.938 98.393,47.863 92.923,47.863 92.923,58.938 81.866,58.938 81.866,64.469 "
              id="polygon4592" />
         </g>
       </g>
@@ -3613,6 +3666,17 @@
          id="path1108"
          d="m 212.69532,70.642091 -66.02417,68.225099 -6.60096,110.03907 50.61768,75.92651 11.00281,35.21302 v 68.22326 l 55.01953,22.00928 55.01953,-22.00928 v -68.22326 l 11.00464,-35.21302 50.61768,-75.92651 -6.60278,-110.03907 -66.02235,-68.225099 z"
          style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.10039222" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer45"
+       inkscape:label="Patreon K">
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke-width:2.95024228"
+         d="m 126.33008,132.37695 v 282.89258 h 51.85937 V 132.37695 Z m 189.10547,0.002 c -58.56585,0 -106.21289,47.64081 -106.21289,106.20312 0,58.3847 47.64704,105.88477 106.21289,105.88477 58.38471,0 105.88476,-47.50007 105.88476,-105.88477 0,-58.56231 -47.50005,-106.20312 -105.88476,-106.20312 z"
+         transform="scale(0.93750002)"
+         id="path4561"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
@@ -4205,6 +4269,18 @@
          id="path1104"
          d="m 212.69532,70.642091 -66.02417,68.225099 -6.60096,110.03907 50.61768,75.92651 11.00281,35.21302 v 68.22326 l 55.01953,22.00928 55.01953,-22.00928 v -68.22326 l 11.00464,-35.21302 50.61768,-75.92651 -6.60278,-110.03907 -66.02235,-68.225099 z"
          style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.10039222" />
+    </g>
+    <g
+       inkscape:label="Patreon W"
+       id="g4590"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:2.95024228"
+         d="m 126.33008,132.37695 v 282.89258 h 51.85937 V 132.37695 Z m 189.10547,0.002 c -58.56585,0 -106.21289,47.64081 -106.21289,106.20312 0,58.3847 47.64704,105.88477 106.21289,105.88477 58.38471,0 105.88476,-47.50007 105.88476,-105.88477 0,-58.56231 -47.50005,-106.20312 -105.88476,-106.20312 z"
+         transform="scale(0.93750002)"
+         id="path4582"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <style
