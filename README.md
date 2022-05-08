@@ -5,8 +5,12 @@ Social icon Inkscape vector layers: to-spec, standard size & spacing, circle, di
 ## Disclaimer
 These are icons I use, based on as much information as I can get from official guidelines from the social companies. Use at your own risk.
 
-# The main file with all the icons is here:
-# [Jesse-socicons-main.svg](https://github.com/JesseSteele/socicons/blob/master/Jesse-socicons-main.svg)
+## The main file with all the icons is here:
+### [Jesse-socicons-main.svg](https://github.com/JesseSteele/socicons/blob/master/Jesse-socicons-main.svg)
+
+## SVG HTML code for "search" button in web forms
+
+[search-web-code.md](https://github.com/JesseSteele/socicons/blob/master/search-web-code.md)
 
 ## About licsensing social media icons
 I contacted Linkedin about using their icon and had friendly correspondence with them. I had the same experience with Twitter. Different brands have their own trademark standards. Using an outdated icon or messing with it too much could make problems for you, but a social media brand would be foolish to actually prosecute due to foreseeable public backlash. Twitter, for example, cares about the space between the bird and what it's next to. As I understand (not corresponded), the Facebook "f" isn't the actual "f", but the space around it. So, an "f" in a circle may actually be trademark abuse, but I have no official word from Facebook about this. I won't ask because they are too "big, corporate" and I wouldn't want to waste their time.
